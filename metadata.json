@@ -1,0 +1,6 @@
+{
+  "name": "FreshWave Laundry",
+  "description": "Premium eco-friendly laundry service in Warri City, Nigeria. Immersive experience for booking wash and fold, dry cleaning, pickup, and delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
